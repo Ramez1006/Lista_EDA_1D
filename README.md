@@ -1,0 +1,8 @@
+1. PROPOSTA DE ATIVIDADE – EDA_1D - Lista
+1.1. Crie um programa em C++ que leia um número inteiro e mostre na tela o seu sucessor e seu antecessor. Utilize lógica sequencial para o desenvolvimento do código.
+1.2. Elabore um programa que leia o comprimento do cateto oposto de um ângulo e do cateto adjacente de um triângulo retângulo, calcule e mostre o comprimento da hipotenusa. Para o desenvolvimento do código, declare a biblioteca cmath (#include <cmath>) para realizar os cálculos por meio de função.
+1.3. Desenvolva um programa em C++ que declare uma variável inteira e a use para armazenar a idade de uma pessoa. Verifique se a idade é maior ou igual a 16 anos. Se verdadeiro, imprimir na tela “Possui idade para ser eleitor no Brasil”. Se falso, imprimir na tela “Não possui idade para ser eleitor no Brasil”.
+1.4. Desenvolva um algoritmo que receba um número inteiro e utilizando estruturas de decisão e imprima se o número é par, impar ou negativo.
+1.5. Escreva um programa que leia a velocidade de um carro. Informe ao usuário que, se ele ultrapassar 80km/h, mostre uma mensagem dizendo que ele foi multado. Considere que a multa vai custar R$7,00 por cada Km acima do limite.
+1.6. Desenvolva um programa em C++ que pergunte a distância de uma viagem em Km. Após, calcule o preço da passagem, considerando uma cobrança de R$ 0,50 por Km para viagens de até 200km e R$ 0,45 para viagens mais longas.
+1.7. Escreva um programa que pergunte o salário de um funcionário e calcule o valor do seu aumento. Para salários superiores a R$ 1.250,00, calcule um aumento de 10% e para os inferiores ou iguais, o aumento será de R$ 15.
